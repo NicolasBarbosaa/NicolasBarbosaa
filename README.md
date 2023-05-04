@@ -14,7 +14,7 @@ My name is _Nicolas Barbosa_. I currently live in São Paulo - Brazil.
 
 I am a programming student at SENAI - Osasco 
 
-I'm currently learning HTML, CSS and Java.
+I'm currently learning HTML, CSS, JS and Java.
 </div>
 
 <div align="center">
