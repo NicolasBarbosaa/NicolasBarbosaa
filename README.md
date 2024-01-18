@@ -23,8 +23,7 @@ I'm currently learning HTML, CSS, JS and Java.
   <img align="center" height="40" alt="nick-CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
   <img align="center" height="40" alt="nick-JAVA" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
   <img align="center" height="40" alt="nick-JS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-</div>
-![Snake animation](https://github.com/NicolasBarbosaa/NicolasBarbosaa/blob/output/github-contribution-grid-snake.svg)          
+</div>      
 ---
 
 <div align="center">
@@ -35,3 +34,4 @@ I'm currently learning HTML, CSS, JS and Java.
 
 <h2 align="center">Certifications:</h2>
 <h4 align="center">- CertiProf Scrum Foundation Professional Certification SFPC</h4>
+![snake gif](https://github.com/NicolasBarbosaa/NicolasBarbosaa/blob/output/github-contribution-grid-snake.svg)
