@@ -24,7 +24,7 @@ I'm currently learning HTML, CSS, JS and Java.
   <img align="center" height="40" alt="nick-JAVA" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
   <img align="center" height="40" alt="nick-JS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 </div>
-          
+![Snake animation](https://github.com/NicolasBarbosaa/NicolasBarbosaa/blob/output/github-contribution-grid-snake.svg)          
 ---
 
 <div align="center">
