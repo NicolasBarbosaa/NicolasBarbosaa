@@ -34,4 +34,3 @@ I'm currently learning HTML, CSS, JS and Java.
 
 <h2 align="center">Certifications:</h2>
 <h4 align="center">- CertiProf Scrum Foundation Professional Certification SFPC</h4>
-![snake gif](https://github.com/NicolasBarbosaa/NicolasBarbosaa/blob/output/github-contribution-grid-snake.svg)
