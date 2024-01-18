@@ -1,18 +1,19 @@
-<h1 align="center">
-  ㅤHello World!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>
-</h1>
+### Hi, i'm Nicolas Barbosa 😁
 
-<h2 align="center">
-Welcome to my github!
-</h2>
+## I am a programming student at SENAI - Osasco
+
+- 🥅  2024 Plans: Improve my programming skills
+
+### Connect with me:
+
+<div>
+ 
+  <a href="https://www.instagram.com/barbosaa.__/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/nicolasbarbosaa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
 
 <div align="center">
   <h3>About Me :</h3>
-  
-My name is _Nicolas Barbosa_. I currently live in São Paulo - Brazil.
-
-I am a programming student at SENAI - Osasco 
 
 I'm currently learning HTML, CSS, JS and Java.
 </div>
