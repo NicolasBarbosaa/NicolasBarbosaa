@@ -15,12 +15,13 @@
 <div align="center">
   <h3>About Me :</h3>
 
-I'm currently learning HTML, CSS, JS and Java.
+I'm currently learning Java and Flutter.
 </div>
 
 <div align="center">
   <img align="center" height="40" alt="nick-HTML" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
   <img align="center" height="40" alt="nick-CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
+   <img align="center" height="40" alt="nick-CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg"/>
   <img align="center" height="40" alt="nick-JAVA" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
   <img align="center" height="40" alt="nick-JS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 </div>      
