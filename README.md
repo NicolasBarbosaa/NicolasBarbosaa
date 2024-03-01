@@ -24,6 +24,7 @@ I'm currently learning Java and Flutter.
    <img align="center" height="40" alt="nick-CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg"/>
   <img align="center" height="40" alt="nick-JAVA" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
   <img align="center" height="40" alt="nick-JS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+ <img align="center" height="40" alt="nick-GIT" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />
 </div>      
 ---
 
